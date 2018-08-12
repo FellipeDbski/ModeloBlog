@@ -1,0 +1,26 @@
+﻿
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  
+}
+
+.imgControl img {
+    width: 600px;
+    height: 420px;
+}
+
+.imgControlModal img{
+    width: 4000px;
+    height: 3000px;
+}
+
+span {
+   color: #FF9F46;
+}
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+

@@ -1,0 +1,31 @@
+﻿.btn{
+   
+}
+
+
+.btn-primary {
+    background-color: lightgray;
+    border-color: lightgray;
+    padding: 8px 20px;
+}
+    .btn-primary:hover {
+        background-color: #fec503;
+        border-color: #fec503;
+    }
+
+
+
+.btn-secondary {
+    background-color: lightgray;
+    border-color: lightgray;
+    padding: 8px 20px;
+}
+    .btn-secondary:hover {
+        background-color: #fec503;
+        border-color: #fec503;
+    }
+
+.Dist {
+    padding-top: 17px;
+}
+
